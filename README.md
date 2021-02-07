@@ -1,0 +1,2 @@
+# Lonely Cells
+My FP final project. It's a graphical game which can be played in single or multiplayer mode. The game's map is read from .bin file. The game can also be saved and continued later. Each player has a number of cells and each cell has functions like 'move' (if adjacent blocks are free), 'split' (if it has more than 80 energy) and 'boost energy' (if it's located in a energy block).
